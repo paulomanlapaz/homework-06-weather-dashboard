@@ -28,7 +28,7 @@ THEN I am again presented with current and future conditions for that city
 ```
 
 ## Link to working site
-https://paulomanlapaz.github.io/weather-dashboard-homework/
+https://paulomanlapaz.github.io/homework-06-weather-dashboard/
 
 ## Screenshots of site
 <img src="assets/screenshots/website1.PNG" width="400">
